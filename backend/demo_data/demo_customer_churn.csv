@@ -1,0 +1,1001 @@
+Customer_ID,Tenure_Months,Contract_Type,Monthly_Charges,Total_Charges,Tech_Support,Support_Tickets,Churn_Risk_Score,Churn_Status
+CUST-10000,26,Month-to-month,87.34,2284.72,No,2,0.793,Churned
+CUST-10001,7,Month-to-month,88.11,614.36,Yes,2,0.87,Churned
+CUST-10002,45,Month-to-month,103.98,4866.14,No internet,0,0.41,Retained
+CUST-10003,45,Month-to-month,44.5,1946.37,Yes,1,0.471,Retained
+CUST-10004,71,One year,74.01,5381.57,Yes,1,0.056,Retained
+CUST-10005,35,Month-to-month,84.1,2843.15,Yes,0,0.286,Retained
+CUST-10006,52,Two year,81.06,4263.9,No internet,1,0.095,Retained
+CUST-10007,21,Month-to-month,48.37,1053.42,No,2,0.619,Churned
+CUST-10008,28,Two year,20.0,557.64,No internet,2,0.321,Retained
+CUST-10009,44,Two year,78.67,3539.12,No internet,1,0.212,Retained
+CUST-10010,56,Two year,66.19,3825.4,No,3,0.391,Retained
+CUST-10011,10,One year,55.83,537.98,Yes,0,0.083,Retained
+CUST-10012,23,Two year,89.1,2091.48,Yes,3,0.564,Churned
+CUST-10013,48,One year,68.88,3445.05,Yes,0,0.02,Retained
+CUST-10014,52,Month-to-month,37.02,1939.74,No,2,0.501,Churned
+CUST-10015,15,One year,21.71,315.43,Yes,0,0.02,Retained
+CUST-10016,55,One year,41.78,2212.18,Yes,3,0.364,Retained
+CUST-10017,43,Two year,129.83,5448.56,No,1,0.271,Retained
+CUST-10018,50,Month-to-month,88.07,4228.91,No,4,0.976,Churned
+CUST-10019,6,Month-to-month,74.72,448.92,No,3,0.935,Churned
+CUST-10020,33,One year,65.46,2067.23,Yes,2,0.384,Retained
+CUST-10021,62,Two year,63.82,3847.4,No,0,0.02,Retained
+CUST-10022,55,Month-to-month,99.18,5422.12,No,2,0.709,Churned
+CUST-10023,39,Month-to-month,57.74,2245.99,Yes,3,0.73,Churned
+CUST-10024,12,Month-to-month,84.42,1019.67,No,1,0.582,Churned
+CUST-10025,31,Month-to-month,61.29,1939.06,No internet,1,0.374,Retained
+CUST-10026,53,Month-to-month,118.5,5996.14,Yes,2,0.626,Churned
+CUST-10027,34,Month-to-month,88.56,2884.76,No,3,0.737,Churned
+CUST-10028,41,Two year,101.14,3964.64,No,1,0.259,Retained
+CUST-10029,10,Month-to-month,55.39,549.64,Yes,0,0.447,Retained
+CUST-10030,52,Month-to-month,96.45,4785.62,No internet,1,0.51,Churned
+CUST-10031,57,One year,62.19,3632.06,Yes,0,0.02,Retained
+CUST-10032,3,Two year,72.75,212.2,No,1,0.248,Retained
+CUST-10033,57,Two year,110.88,6597.75,No,0,0.02,Retained
+CUST-10034,33,Month-to-month,43.93,1447.72,No,1,0.576,Churned
+CUST-10035,7,Two year,75.08,522.74,Yes,2,0.6,Churned
+CUST-10036,4,Month-to-month,80.95,332.88,Yes,3,0.98,Churned
+CUST-10037,39,One year,83.0,3306.0,Yes,1,0.142,Retained
+CUST-10038,48,One year,58.73,2849.29,Yes,4,0.761,Churned
+CUST-10039,16,Month-to-month,122.16,2039.61,Yes,3,0.937,Churned
+CUST-10040,38,Month-to-month,37.63,1418.82,No internet,2,0.622,Churned
+CUST-10041,4,Month-to-month,106.47,439.02,Yes,1,0.769,Churned
+CUST-10042,4,Two year,100.38,396.71,No,3,0.646,Churned
+CUST-10043,27,Month-to-month,117.52,3280.4,No,3,0.98,Churned
+CUST-10044,17,One year,30.29,502.54,No,2,0.423,Retained
+CUST-10045,70,Month-to-month,48.28,3308.38,No internet,1,0.302,Retained
+CUST-10046,54,Month-to-month,107.3,5897.26,Yes,2,0.555,Churned
+CUST-10047,8,Two year,23.07,179.26,No internet,2,0.351,Retained
+CUST-10048,53,One year,29.84,1538.69,No,4,0.614,Churned
+CUST-10049,5,Two year,57.79,283.32,No,1,0.176,Retained
+CUST-10050,69,Month-to-month,74.8,5253.55,No,0,0.177,Retained
+CUST-10051,47,Month-to-month,109.81,5362.04,No,6,0.98,Churned
+CUST-10052,40,Month-to-month,65.37,2660.45,Yes,2,0.713,Churned
+CUST-10053,7,Month-to-month,54.79,396.1,Yes,2,0.645,Churned
+CUST-10054,12,Month-to-month,77.78,937.43,No,1,0.693,Churned
+CUST-10055,25,One year,81.74,1955.41,No internet,5,0.98,Churned
+CUST-10056,28,Month-to-month,81.03,2178.19,No,2,0.739,Churned
+CUST-10057,43,Month-to-month,65.55,2833.98,Yes,1,0.359,Retained
+CUST-10058,47,Month-to-month,21.12,975.55,No,3,0.697,Churned
+CUST-10059,49,One year,47.06,2241.5,No,0,0.02,Retained
+CUST-10060,54,One year,105.51,5678.31,Yes,1,0.173,Retained
+CUST-10061,18,Month-to-month,74.68,1366.62,Yes,3,0.92,Churned
+CUST-10062,27,Month-to-month,61.94,1653.15,Yes,5,0.98,Churned
+CUST-10063,6,Month-to-month,97.95,,No internet,2,0.814,Churned
+CUST-10064,69,Two year,41.75,2949.46,No internet,1,0.022,Retained
+CUST-10065,71,Two year,64.37,4677.63,Yes,2,0.167,Retained
+CUST-10066,22,One year,73.44,1694.07,Yes,2,0.393,Retained
+CUST-10067,59,Month-to-month,58.97,3407.99,No,1,0.32,Retained
+CUST-10068,47,Month-to-month,72.52,3457.77,No internet,1,0.588,Churned
+CUST-10069,68,One year,65.31,4598.95,No,3,0.514,Churned
+CUST-10070,32,Two year,35.02,1129.55,No,2,0.37,Retained
+CUST-10071,1,Two year,74.54,76.7,Yes,0,0.255,Retained
+CUST-10072,54,Two year,36.79,1969.66,No,2,0.3,Retained
+CUST-10073,46,Month-to-month,74.14,3441.3,Yes,3,0.816,Churned
+CUST-10074,41,Two year,104.35,4088.25,No,1,0.084,Retained
+CUST-10075,41,One year,62.97,2707.18,No,2,0.306,Retained
+CUST-10076,8,Two year,40.71,335.45,No internet,1,0.226,Retained
+CUST-10077,32,Month-to-month,66.83,2217.43,No,1,0.399,Retained
+CUST-10078,30,Month-to-month,49.2,1504.68,No,1,0.354,Retained
+CUST-10079,46,Month-to-month,84.86,3781.01,Yes,3,0.856,Churned
+CUST-10080,52,Month-to-month,66.3,3285.92,No,1,0.431,Retained
+CUST-10081,61,Month-to-month,112.74,7127.92,No,4,0.879,Churned
+CUST-10082,13,Two year,99.07,1274.56,Yes,1,0.254,Retained
+CUST-10083,40,Month-to-month,66.17,2584.3,No internet,6,0.98,Churned
+CUST-10084,61,Month-to-month,87.89,,No,2,0.508,Churned
+CUST-10085,44,Month-to-month,60.17,,No,1,0.444,Retained
+CUST-10086,62,Month-to-month,70.85,4459.32,No internet,1,0.355,Retained
+CUST-10087,44,Two year,60.96,2677.89,No internet,2,0.352,Retained
+CUST-10088,48,Month-to-month,89.16,4364.09,No,2,0.565,Churned
+CUST-10089,59,Month-to-month,105.82,6464.04,No internet,2,0.618,Churned
+CUST-10090,57,Two year,89.97,4972.16,Yes,4,0.671,Churned
+CUST-10091,11,Two year,93.05,,Yes,1,0.332,Retained
+CUST-10092,25,Month-to-month,93.08,2312.3,No,1,0.561,Churned
+CUST-10093,61,One year,83.78,5346.72,Yes,2,0.3,Retained
+CUST-10094,46,One year,41.52,1884.2,No,1,0.271,Retained
+CUST-10095,54,One year,112.52,6003.84,Yes,3,0.726,Churned
+CUST-10096,34,Month-to-month,115.11,3973.81,No,1,0.497,Retained
+CUST-10097,7,Two year,64.15,445.42,No,4,0.644,Churned
+CUST-10098,62,Month-to-month,60.73,3935.16,No,2,0.584,Churned
+CUST-10099,57,Month-to-month,85.31,5054.49,No internet,0,0.246,Retained
+CUST-10100,5,Month-to-month,83.77,419.41,No,4,0.98,Churned
+CUST-10101,35,Month-to-month,64.95,2306.16,Yes,2,0.677,Churned
+CUST-10102,37,Two year,38.75,1370.38,Yes,1,0.134,Retained
+CUST-10103,60,One year,77.64,4749.58,Yes,2,0.358,Retained
+CUST-10104,65,Month-to-month,83.79,5559.2,No internet,0,0.297,Retained
+CUST-10105,16,Month-to-month,88.15,1390.54,Yes,0,0.295,Retained
+CUST-10106,30,Month-to-month,78.73,2295.69,Yes,4,0.98,Churned
+CUST-10107,42,Two year,63.22,2765.45,No internet,1,0.134,Retained
+CUST-10108,61,One year,94.85,5743.44,No,1,0.115,Retained
+CUST-10109,48,One year,71.65,3492.06,Yes,1,0.111,Retained
+CUST-10110,62,One year,58.38,3450.65,Yes,4,0.627,Churned
+CUST-10111,64,One year,65.48,4154.71,No internet,1,0.134,Retained
+CUST-10112,57,One year,26.35,1549.6,No internet,6,0.98,Churned
+CUST-10113,68,Month-to-month,65.44,4399.89,Yes,2,0.564,Churned
+CUST-10114,46,Two year,87.21,4053.04,No,1,0.091,Retained
+CUST-10115,28,One year,78.49,2133.95,No internet,1,0.211,Retained
+CUST-10116,3,One year,108.02,321.35,No,3,0.721,Churned
+CUST-10117,37,Two year,63.43,2447.27,No,2,0.385,Retained
+CUST-10118,48,Two year,82.18,3970.85,No,1,0.175,Retained
+CUST-10119,19,Two year,89.82,1775.17,No internet,2,0.62,Churned
+CUST-10120,17,Two year,128.57,2273.56,Yes,1,0.301,Retained
+CUST-10121,40,Month-to-month,73.62,3075.59,Yes,0,0.316,Retained
+CUST-10122,50,Month-to-month,43.9,2281.79,No,1,0.571,Churned
+CUST-10123,29,One year,91.2,2513.43,No,2,0.369,Retained
+CUST-10124,51,Month-to-month,116.64,6206.82,No internet,1,0.491,Retained
+CUST-10125,42,Two year,61.94,2507.17,Yes,2,0.245,Retained
+CUST-10126,29,One year,91.03,2518.42,No internet,2,0.422,Retained
+CUST-10127,66,One year,100.72,6351.96,Yes,1,0.032,Retained
+CUST-10128,17,Two year,95.43,1597.8,No,0,0.195,Retained
+CUST-10129,31,Month-to-month,73.14,2294.73,Yes,2,0.694,Churned
+CUST-10130,52,One year,52.54,2705.39,No,3,0.371,Retained
+CUST-10131,39,One year,67.97,2525.06,No,1,0.229,Retained
+CUST-10132,60,Month-to-month,81.47,4876.7,Yes,5,0.98,Churned
+CUST-10133,51,Month-to-month,92.71,,Yes,2,0.702,Churned
+CUST-10134,16,Two year,78.35,1285.8,No,1,0.18,Retained
+CUST-10135,14,One year,60.5,828.33,No internet,1,0.285,Retained
+CUST-10136,42,Two year,83.88,3423.45,Yes,2,0.413,Retained
+CUST-10137,51,Month-to-month,91.5,4552.61,Yes,1,0.411,Retained
+CUST-10138,24,Month-to-month,79.49,1870.32,Yes,1,0.44,Retained
+CUST-10139,43,Month-to-month,49.1,2132.24,No internet,0,0.236,Retained
+CUST-10140,19,Month-to-month,65.46,1240.2,Yes,2,0.82,Churned
+CUST-10141,61,Two year,93.7,5622.47,Yes,2,0.376,Retained
+CUST-10142,63,Month-to-month,35.42,2203.41,No,0,0.102,Retained
+CUST-10143,26,Two year,20.0,513.29,No,1,0.047,Retained
+CUST-10144,35,Two year,107.7,3947.57,Yes,3,0.559,Churned
+CUST-10145,67,Two year,82.79,5398.83,No internet,1,0.028,Retained
+CUST-10146,56,Month-to-month,85.17,4921.22,No,2,0.631,Churned
+CUST-10147,40,Two year,43.08,1759.08,No,1,0.115,Retained
+CUST-10148,29,Month-to-month,88.44,2437.95,No,0,0.292,Retained
+CUST-10149,6,Month-to-month,76.88,484.03,No internet,3,0.98,Churned
+CUST-10150,52,Month-to-month,30.39,1620.8,Yes,1,0.367,Retained
+CUST-10151,1,Two year,105.61,107.54,Yes,5,0.98,Churned
+CUST-10152,52,Month-to-month,73.97,3810.02,Yes,5,0.98,Churned
+CUST-10153,24,Month-to-month,60.1,1450.36,No,0,0.14,Retained
+CUST-10154,34,Month-to-month,60.55,2007.91,No,3,0.717,Churned
+CUST-10155,7,Month-to-month,20.0,133.5,No,3,0.85,Churned
+CUST-10156,11,Month-to-month,84.83,964.49,Yes,3,0.98,Churned
+CUST-10157,36,Two year,76.55,2865.06,No,0,0.02,Retained
+CUST-10158,20,One year,65.15,1259.02,No,0,0.185,Retained
+CUST-10159,63,Two year,101.96,6607.87,Yes,1,0.123,Retained
+CUST-10160,63,One year,35.4,2283.98,No,1,0.125,Retained
+CUST-10161,69,Two year,55.08,3678.29,Yes,2,0.128,Retained
+CUST-10162,30,Month-to-month,48.75,1451.07,No,6,0.98,Churned
+CUST-10163,30,One year,63.03,1876.29,Yes,0,0.02,Retained
+CUST-10164,22,One year,71.69,1618.18,No,1,0.303,Retained
+CUST-10165,61,Month-to-month,80.75,5092.07,No internet,0,0.189,Retained
+CUST-10166,21,Two year,61.33,1235.74,No internet,0,0.086,Retained
+CUST-10167,37,One year,48.07,1789.79,Yes,3,0.591,Churned
+CUST-10168,27,Two year,112.15,3107.31,No,1,0.221,Retained
+CUST-10169,35,One year,130.29,4690.66,Yes,3,0.645,Churned
+CUST-10170,38,Month-to-month,73.58,2697.62,No internet,2,0.503,Churned
+CUST-10171,60,One year,51.08,3072.62,No,2,0.287,Retained
+CUST-10172,70,Month-to-month,106.89,7749.84,No,1,0.543,Churned
+CUST-10173,32,One year,33.83,1062.91,Yes,1,0.044,Retained
+CUST-10174,27,One year,61.63,1651.55,No internet,2,0.376,Retained
+CUST-10175,3,Two year,52.6,162.6,No,1,0.361,Retained
+CUST-10176,49,Month-to-month,41.01,1926.96,Yes,1,0.385,Retained
+CUST-10177,30,Month-to-month,63.0,1957.94,Yes,3,0.866,Churned
+CUST-10178,22,Month-to-month,48.4,1044.69,Yes,2,0.654,Churned
+CUST-10179,19,Month-to-month,70.32,1269.47,No,2,0.694,Churned
+CUST-10180,31,Two year,70.68,2132.83,No internet,1,0.192,Retained
+CUST-10181,20,Two year,54.47,1044.68,No internet,2,0.406,Retained
+CUST-10182,19,One year,60.74,1107.02,No,3,0.501,Churned
+CUST-10183,2,Two year,64.23,130.94,No,1,0.306,Retained
+CUST-10184,40,Month-to-month,90.25,3506.75,No,2,0.794,Churned
+CUST-10185,39,Month-to-month,66.29,2697.7,Yes,3,0.786,Churned
+CUST-10186,54,Month-to-month,90.62,4901.53,No internet,1,0.332,Retained
+CUST-10187,27,Two year,84.65,2276.43,Yes,3,0.583,Churned
+CUST-10188,12,One year,84.29,1004.83,Yes,1,0.24,Retained
+CUST-10189,71,One year,104.7,7576.86,No internet,6,0.873,Churned
+CUST-10190,17,Month-to-month,42.02,710.93,Yes,3,0.889,Churned
+CUST-10191,10,Month-to-month,58.17,560.1,No,1,0.512,Churned
+CUST-10192,19,Two year,114.08,2249.92,No internet,1,0.259,Retained
+CUST-10193,30,Month-to-month,63.57,1893.44,No,1,0.506,Churned
+CUST-10194,30,One year,20.0,574.44,Yes,2,0.19,Retained
+CUST-10195,25,Month-to-month,64.93,1628.02,Yes,1,0.377,Retained
+CUST-10196,66,Month-to-month,73.37,4913.77,Yes,2,0.591,Churned
+CUST-10197,35,One year,20.0,684.29,No,3,0.317,Retained
+CUST-10198,51,Month-to-month,103.35,5429.15,No,5,0.98,Churned
+CUST-10199,71,One year,52.16,3766.23,No,2,0.043,Retained
+CUST-10200,71,One year,78.21,5636.39,No,0,0.02,Retained
+CUST-10201,27,Month-to-month,64.35,1723.69,No,0,0.361,Retained
+CUST-10202,10,One year,37.79,395.36,No,1,0.25,Retained
+CUST-10203,43,One year,43.24,1817.33,No internet,1,0.302,Retained
+CUST-10204,55,Month-to-month,46.62,2584.02,Yes,2,0.633,Churned
+CUST-10205,71,One year,97.14,6765.25,No,0,0.02,Retained
+CUST-10206,6,One year,66.31,407.6,No,1,0.201,Retained
+CUST-10207,6,Month-to-month,56.95,,Yes,2,0.98,Churned
+CUST-10208,48,Two year,46.63,2136.6,Yes,1,0.18,Retained
+CUST-10209,2,Month-to-month,99.9,206.01,Yes,2,0.888,Churned
+CUST-10210,51,Two year,106.61,5401.37,No,2,0.352,Retained
+CUST-10211,61,Two year,99.62,5980.31,Yes,2,0.316,Retained
+CUST-10212,19,Month-to-month,82.31,1580.71,No internet,4,0.98,Churned
+CUST-10213,2,Month-to-month,77.25,157.62,No,3,0.98,Churned
+CUST-10214,51,Month-to-month,39.6,1959.25,No internet,0,0.198,Retained
+CUST-10215,26,Month-to-month,63.85,1607.88,Yes,3,0.798,Churned
+CUST-10216,70,Two year,52.9,3872.65,Yes,0,0.02,Retained
+CUST-10217,20,One year,24.36,491.57,Yes,5,0.98,Churned
+CUST-10218,23,Month-to-month,96.43,2193.52,Yes,3,0.918,Churned
+CUST-10219,54,One year,52.6,2926.02,No internet,1,0.244,Retained
+CUST-10220,15,Two year,99.9,1502.27,Yes,3,0.527,Churned
+CUST-10221,6,One year,92.04,537.97,No,0,0.111,Retained
+CUST-10222,35,One year,83.92,2851.06,Yes,3,0.437,Retained
+CUST-10223,8,One year,85.32,675.52,No,3,0.578,Churned
+CUST-10224,57,Month-to-month,54.62,,No internet,0,0.122,Retained
+CUST-10225,50,Month-to-month,116.45,5567.15,No,0,0.329,Retained
+CUST-10226,49,One year,71.08,,No,1,0.146,Retained
+CUST-10227,21,Month-to-month,77.55,1692.58,Yes,1,0.496,Retained
+CUST-10228,36,One year,53.77,1862.5,No internet,1,0.02,Retained
+CUST-10229,71,One year,46.72,3360.12,No,0,0.02,Retained
+CUST-10230,69,One year,81.93,5491.21,No,2,0.213,Retained
+CUST-10231,58,Month-to-month,75.44,4421.84,No,3,0.664,Churned
+CUST-10232,63,Month-to-month,50.27,3129.99,No internet,2,0.539,Churned
+CUST-10233,16,Month-to-month,34.04,522.95,No,1,0.527,Churned
+CUST-10234,6,Month-to-month,38.25,231.39,No,3,0.892,Churned
+CUST-10235,52,Month-to-month,99.9,5289.89,No,1,0.464,Retained
+CUST-10236,2,One year,54.67,111.31,Yes,5,0.925,Churned
+CUST-10237,18,Month-to-month,61.53,1122.72,No,2,0.781,Churned
+CUST-10238,35,Month-to-month,106.26,3719.18,No,2,0.632,Churned
+CUST-10239,39,Month-to-month,41.95,1639.24,No,4,0.917,Churned
+CUST-10240,1,Month-to-month,51.83,52.53,No,1,0.65,Churned
+CUST-10241,37,Month-to-month,50.78,1914.61,Yes,0,0.363,Retained
+CUST-10242,21,Month-to-month,110.45,2355.37,No,2,0.903,Churned
+CUST-10243,1,Two year,119.83,120.87,No internet,1,0.477,Retained
+CUST-10244,4,Month-to-month,88.79,342.94,No internet,2,0.791,Churned
+CUST-10245,58,One year,89.58,5045.29,Yes,4,0.529,Churned
+CUST-10246,1,Two year,55.49,54.16,No,2,0.595,Churned
+CUST-10247,13,Month-to-month,118.68,1607.59,No,1,0.75,Churned
+CUST-10248,46,Two year,76.69,3619.25,No,3,0.451,Retained
+CUST-10249,47,Month-to-month,91.33,4315.2,No,1,0.535,Churned
+CUST-10250,7,Month-to-month,67.36,459.83,No internet,3,0.928,Churned
+CUST-10251,51,Month-to-month,63.3,3102.68,No,4,0.98,Churned
+CUST-10252,3,Month-to-month,111.58,348.09,No,4,0.98,Churned
+CUST-10253,50,Month-to-month,83.49,4338.42,Yes,1,0.596,Churned
+CUST-10254,26,Month-to-month,106.28,2655.7,Yes,4,0.98,Churned
+CUST-10255,31,One year,76.38,2438.15,Yes,0,0.171,Retained
+CUST-10256,62,Two year,48.79,3008.84,No internet,0,0.02,Retained
+CUST-10257,26,Month-to-month,55.42,1415.56,No,0,0.351,Retained
+CUST-10258,67,Month-to-month,72.57,4978.45,No,1,0.274,Retained
+CUST-10259,55,Month-to-month,54.34,3022.87,No internet,4,0.98,Churned
+CUST-10260,28,Month-to-month,42.31,1217.85,No,1,0.544,Churned
+CUST-10261,44,One year,100.04,4214.39,No,2,0.557,Churned
+CUST-10262,38,Month-to-month,56.38,2103.57,Yes,1,0.489,Retained
+CUST-10263,30,Month-to-month,73.45,2163.69,No internet,4,0.98,Churned
+CUST-10264,66,One year,77.4,5021.43,Yes,1,0.025,Retained
+CUST-10265,8,Two year,55.3,442.51,Yes,2,0.497,Retained
+CUST-10266,14,Month-to-month,106.27,1455.5,Yes,2,0.769,Churned
+CUST-10267,62,One year,42.07,2593.83,Yes,2,0.219,Retained
+CUST-10268,63,Month-to-month,76.54,4758.26,Yes,2,0.568,Churned
+CUST-10269,66,Month-to-month,76.15,5144.16,No,2,0.513,Churned
+CUST-10270,40,Month-to-month,68.64,2774.02,Yes,1,0.464,Retained
+CUST-10271,13,Month-to-month,37.58,496.05,No,2,0.678,Churned
+CUST-10272,17,Two year,91.77,1514.94,Yes,3,0.616,Churned
+CUST-10273,15,Month-to-month,88.59,1305.66,Yes,0,0.497,Retained
+CUST-10274,33,Month-to-month,53.11,1668.71,No,4,0.98,Churned
+CUST-10275,16,Month-to-month,87.69,1348.09,No internet,4,0.98,Churned
+CUST-10276,13,Month-to-month,79.37,1007.57,No internet,4,0.98,Churned
+CUST-10277,23,One year,37.98,835.58,No internet,1,0.221,Retained
+CUST-10278,36,Month-to-month,48.65,1769.38,No,5,0.98,Churned
+CUST-10279,43,Month-to-month,98.46,4444.68,No,2,0.636,Churned
+CUST-10280,50,One year,77.74,3731.84,No,4,0.836,Churned
+CUST-10281,13,Month-to-month,55.89,749.91,No,2,0.55,Churned
+CUST-10282,30,Month-to-month,48.54,1400.69,Yes,1,0.535,Churned
+CUST-10283,57,Month-to-month,57.12,3311.16,No,2,0.609,Churned
+CUST-10284,30,Month-to-month,58.89,1791.99,No,3,0.89,Churned
+CUST-10285,71,Month-to-month,48.85,3608.03,No,3,0.676,Churned
+CUST-10286,10,Month-to-month,26.46,254.39,No,1,0.569,Churned
+CUST-10287,66,One year,98.5,6381.02,Yes,4,0.701,Churned
+CUST-10288,39,One year,94.27,3526.08,Yes,1,0.14,Retained
+CUST-10289,37,One year,38.17,1399.21,Yes,3,0.513,Churned
+CUST-10290,3,Two year,73.41,229.29,No internet,6,0.98,Churned
+CUST-10291,34,Month-to-month,47.44,1658.37,Yes,0,0.187,Retained
+CUST-10292,38,Two year,63.46,2465.23,Yes,3,0.577,Churned
+CUST-10293,14,Month-to-month,61.38,862.16,No internet,3,0.872,Churned
+CUST-10294,64,Month-to-month,59.3,3940.74,No,2,0.406,Retained
+CUST-10295,39,Month-to-month,120.07,4659.05,Yes,0,0.311,Retained
+CUST-10296,54,Month-to-month,58.99,3073.87,No,4,0.863,Churned
+CUST-10297,2,Two year,49.79,102.94,Yes,5,0.98,Churned
+CUST-10298,43,Month-to-month,50.94,2142.15,Yes,0,0.254,Retained
+CUST-10299,53,Month-to-month,96.09,4865.45,Yes,2,0.733,Churned
+CUST-10300,3,Month-to-month,28.7,82.88,No,3,0.864,Churned
+CUST-10301,41,Month-to-month,50.93,2110.9,No,0,0.32,Retained
+CUST-10302,8,Month-to-month,106.17,858.46,No,0,0.691,Churned
+CUST-10303,63,Month-to-month,76.1,4679.32,No,0,0.222,Retained
+CUST-10304,65,Month-to-month,74.8,4972.45,Yes,1,0.432,Retained
+CUST-10305,4,Two year,123.3,506.7,Yes,2,0.62,Churned
+CUST-10306,68,Month-to-month,76.16,5396.65,No internet,2,0.419,Retained
+CUST-10307,10,Month-to-month,52.3,527.44,Yes,2,0.788,Churned
+CUST-10308,50,One year,62.95,3235.45,No internet,2,0.314,Retained
+CUST-10309,23,Two year,41.61,981.25,No,1,0.171,Retained
+CUST-10310,61,Month-to-month,101.4,6035.6,No internet,2,0.526,Churned
+CUST-10311,47,Month-to-month,84.36,3889.68,Yes,2,0.687,Churned
+CUST-10312,3,Two year,98.11,293.7,Yes,2,0.456,Retained
+CUST-10313,17,Month-to-month,100.32,1623.41,No,0,0.589,Churned
+CUST-10314,22,Month-to-month,59.64,1285.5,No,2,0.71,Churned
+CUST-10315,16,Month-to-month,46.38,740.14,Yes,2,0.61,Churned
+CUST-10316,3,Two year,68.71,198.05,No internet,3,0.632,Churned
+CUST-10317,52,Two year,48.18,2411.73,Yes,1,0.058,Retained
+CUST-10318,33,Two year,74.12,2436.97,Yes,3,0.748,Churned
+CUST-10319,42,Month-to-month,98.3,4223.96,No,2,0.601,Churned
+CUST-10320,2,Month-to-month,65.8,135.99,No,2,0.784,Churned
+CUST-10321,39,Month-to-month,73.75,2889.57,No internet,3,0.787,Churned
+CUST-10322,46,Two year,67.65,3104.04,No,0,0.02,Retained
+CUST-10323,48,Two year,90.07,4273.33,Yes,1,0.113,Retained
+CUST-10324,27,Month-to-month,53.31,1395.17,No,1,0.4,Retained
+CUST-10325,15,One year,20.0,289.4,Yes,1,0.18,Retained
+CUST-10326,7,Month-to-month,81.77,589.1,No,2,0.77,Churned
+CUST-10327,57,Month-to-month,94.7,5379.01,No,2,0.557,Churned
+CUST-10328,42,One year,81.16,3507.68,Yes,6,0.98,Churned
+CUST-10329,9,Month-to-month,53.99,495.83,No,1,0.662,Churned
+CUST-10330,6,Month-to-month,41.62,242.08,No,3,0.897,Churned
+CUST-10331,57,Month-to-month,82.36,4699.36,No,2,0.496,Retained
+CUST-10332,30,Two year,73.54,2193.85,No,2,0.35,Retained
+CUST-10333,55,Two year,66.86,3649.31,Yes,1,0.098,Retained
+CUST-10334,54,Two year,115.56,6266.81,Yes,1,0.059,Retained
+CUST-10335,27,One year,46.33,1311.21,Yes,1,0.312,Retained
+CUST-10336,59,Month-to-month,114.38,6959.58,Yes,3,0.872,Churned
+CUST-10337,7,Month-to-month,70.79,515.54,No,0,0.534,Churned
+CUST-10338,40,Two year,24.11,919.04,No internet,3,0.488,Retained
+CUST-10339,2,One year,65.52,126.33,No,3,0.505,Churned
+CUST-10340,14,One year,93.99,1261.22,No,2,0.605,Churned
+CUST-10341,10,One year,60.87,594.29,No,3,0.564,Churned
+CUST-10342,50,Two year,33.13,1646.87,Yes,2,0.185,Retained
+CUST-10343,18,Month-to-month,65.89,1202.87,No internet,0,0.379,Retained
+CUST-10344,18,Month-to-month,48.57,874.33,No internet,2,0.813,Churned
+CUST-10345,16,One year,82.3,1369.89,No,2,0.542,Churned
+CUST-10346,52,Two year,89.33,4849.48,Yes,0,0.03,Retained
+CUST-10347,69,One year,43.59,2906.51,No,1,0.02,Retained
+CUST-10348,52,Month-to-month,52.35,2818.27,Yes,1,0.36,Retained
+CUST-10349,31,Month-to-month,88.92,2751.48,No,0,0.372,Retained
+CUST-10350,23,One year,48.53,1110.98,No,3,0.551,Churned
+CUST-10351,42,One year,42.95,1855.3,Yes,1,0.186,Retained
+CUST-10352,62,One year,40.53,2410.62,No internet,2,0.274,Retained
+CUST-10353,50,Month-to-month,78.8,4090.7,No internet,3,0.838,Churned
+CUST-10354,15,Two year,77.73,1185.87,No internet,3,0.433,Retained
+CUST-10355,44,One year,52.9,2414.95,No,1,0.13,Retained
+CUST-10356,42,One year,70.13,3091.11,Yes,1,0.144,Retained
+CUST-10357,45,Month-to-month,108.18,4876.86,No,1,0.506,Churned
+CUST-10358,35,Month-to-month,45.65,1532.76,No,2,0.567,Churned
+CUST-10359,22,Two year,21.21,451.06,Yes,0,0.02,Retained
+CUST-10360,38,Month-to-month,81.38,3037.89,No,0,0.342,Retained
+CUST-10361,70,Month-to-month,67.24,4520.2,No,0,0.123,Retained
+CUST-10362,64,Month-to-month,52.25,3449.45,Yes,2,0.562,Churned
+CUST-10363,7,One year,86.3,591.83,Yes,1,0.267,Retained
+CUST-10364,44,Month-to-month,90.98,4193.62,Yes,2,0.766,Churned
+CUST-10365,7,Month-to-month,20.0,142.84,No,1,0.609,Churned
+CUST-10366,66,Two year,53.69,3427.82,No,3,0.413,Retained
+CUST-10367,60,One year,127.94,7658.01,Yes,3,0.501,Churned
+CUST-10368,1,Month-to-month,84.59,84.31,No internet,1,0.712,Churned
+CUST-10369,62,Month-to-month,86.9,5383.77,Yes,3,0.784,Churned
+CUST-10370,18,Two year,99.32,1794.14,No,2,0.492,Retained
+CUST-10371,7,Month-to-month,70.43,469.9,No,1,0.682,Churned
+CUST-10372,54,One year,89.92,4946.14,No,1,0.244,Retained
+CUST-10373,67,Month-to-month,87.95,5885.1,Yes,0,0.093,Retained
+CUST-10374,10,Two year,83.48,859.09,No internet,4,0.76,Churned
+CUST-10375,61,One year,61.95,3898.12,No internet,3,0.359,Retained
+CUST-10376,59,One year,74.3,4265.57,No,1,0.02,Retained
+CUST-10377,59,Month-to-month,55.29,3114.8,No,3,0.716,Churned
+CUST-10378,69,Two year,70.32,4950.69,Yes,1,0.088,Retained
+CUST-10379,63,Month-to-month,40.79,2692.54,No,2,0.502,Churned
+CUST-10380,8,Two year,50.23,399.7,No,0,0.044,Retained
+CUST-10381,55,Month-to-month,62.94,3378.49,No,2,0.658,Churned
+CUST-10382,6,One year,46.41,268.9,No,3,0.641,Churned
+CUST-10383,1,Month-to-month,57.37,56.15,No,0,0.453,Retained
+CUST-10384,56,One year,65.9,3626.9,Yes,4,0.721,Churned
+CUST-10385,10,Month-to-month,80.06,794.51,Yes,0,0.41,Retained
+CUST-10386,23,Month-to-month,93.73,2189.29,Yes,5,0.98,Churned
+CUST-10387,16,Month-to-month,58.41,913.36,Yes,3,0.869,Churned
+CUST-10388,16,Month-to-month,103.38,1579.81,No,3,0.98,Churned
+CUST-10389,56,Month-to-month,93.47,5167.99,No,5,0.98,Churned
+CUST-10390,6,Month-to-month,82.6,513.23,No,0,0.481,Retained
+CUST-10391,30,Two year,73.84,2214.83,No,2,0.336,Retained
+CUST-10392,63,Month-to-month,77.98,5141.08,No,0,0.285,Retained
+CUST-10393,1,One year,99.68,99.72,Yes,0,0.146,Retained
+CUST-10394,51,Month-to-month,100.59,5015.12,Yes,2,0.66,Churned
+CUST-10395,46,One year,103.37,4609.19,Yes,3,0.49,Retained
+CUST-10396,21,Month-to-month,71.03,1520.65,No,2,0.796,Churned
+CUST-10397,38,Two year,83.87,3198.65,Yes,1,0.136,Retained
+CUST-10398,69,Two year,103.59,7222.05,Yes,4,0.761,Churned
+CUST-10399,63,Month-to-month,54.41,3515.28,No,2,0.443,Retained
+CUST-10400,50,One year,62.04,3172.08,No internet,3,0.36,Retained
+CUST-10401,12,Month-to-month,70.4,806.22,No,2,0.834,Churned
+CUST-10402,69,One year,92.49,6574.91,No,3,0.384,Retained
+CUST-10403,44,Month-to-month,92.88,4100.08,No,1,0.475,Retained
+CUST-10404,52,Month-to-month,64.23,3303.79,No,2,0.557,Churned
+CUST-10405,9,Month-to-month,32.28,291.61,No,5,0.98,Churned
+CUST-10406,65,One year,76.15,5005.41,No,3,0.419,Retained
+CUST-10407,10,Month-to-month,47.04,453.91,Yes,2,0.835,Churned
+CUST-10408,46,One year,32.75,1494.06,Yes,0,0.02,Retained
+CUST-10409,58,Month-to-month,38.4,2190.58,Yes,0,0.18,Retained
+CUST-10410,37,Month-to-month,78.16,2848.66,No,1,0.573,Churned
+CUST-10411,52,One year,104.03,5188.49,No internet,1,0.073,Retained
+CUST-10412,13,Two year,70.97,891.23,Yes,4,0.788,Churned
+CUST-10413,6,Two year,75.28,436.41,Yes,1,0.341,Retained
+CUST-10414,58,One year,99.57,5701.85,No internet,3,0.476,Retained
+CUST-10415,48,One year,31.39,1566.16,No,4,0.594,Churned
+CUST-10416,32,One year,83.0,,No,0,0.02,Retained
+CUST-10417,11,Month-to-month,69.71,760.38,No internet,2,0.594,Churned
+CUST-10418,5,Month-to-month,84.15,412.82,No,5,0.98,Churned
+CUST-10419,6,Month-to-month,57.91,357.45,No,3,0.965,Churned
+CUST-10420,21,Month-to-month,49.55,993.74,Yes,1,0.583,Churned
+CUST-10421,42,Month-to-month,73.51,2993.73,Yes,2,0.602,Churned
+CUST-10422,27,Two year,111.23,2916.31,No,1,0.215,Retained
+CUST-10423,3,Month-to-month,91.52,288.09,No,1,0.645,Churned
+CUST-10424,60,One year,57.31,3462.94,No internet,0,0.02,Retained
+CUST-10425,66,One year,36.48,2320.75,No internet,2,0.167,Retained
+CUST-10426,49,Month-to-month,27.95,1338.35,No internet,3,0.789,Churned
+CUST-10427,34,Month-to-month,102.9,3382.38,Yes,2,0.631,Churned
+CUST-10428,37,Month-to-month,46.12,1642.38,No internet,0,0.247,Retained
+CUST-10429,42,One year,61.86,2675.33,No,1,0.135,Retained
+CUST-10430,65,Two year,103.03,6694.11,No,1,0.2,Retained
+CUST-10431,60,Month-to-month,29.65,1802.34,No,2,0.518,Churned
+CUST-10432,1,Two year,107.31,105.5,Yes,2,0.695,Churned
+CUST-10433,59,Month-to-month,63.66,3776.11,Yes,3,0.625,Churned
+CUST-10434,4,One year,41.29,161.16,No,4,0.821,Churned
+CUST-10435,14,One year,63.82,876.33,No,2,0.455,Retained
+CUST-10436,18,Month-to-month,51.94,949.15,Yes,0,0.397,Retained
+CUST-10437,34,Month-to-month,81.02,2658.36,No,0,0.256,Retained
+CUST-10438,1,Month-to-month,53.8,54.43,No internet,3,0.98,Churned
+CUST-10439,53,Month-to-month,22.21,1218.59,No,2,0.521,Churned
+CUST-10440,22,One year,64.49,1364.93,No,1,0.141,Retained
+CUST-10441,61,Month-to-month,36.09,2288.99,Yes,5,0.98,Churned
+CUST-10442,22,One year,75.11,1582.93,Yes,1,0.218,Retained
+CUST-10443,50,Month-to-month,40.32,1985.54,No internet,2,0.78,Churned
+CUST-10444,16,One year,57.8,935.02,No,1,0.328,Retained
+CUST-10445,28,One year,74.56,2100.08,No,3,0.581,Churned
+CUST-10446,70,One year,64.69,4345.53,No,3,0.379,Retained
+CUST-10447,42,Month-to-month,76.26,3298.66,No internet,3,0.897,Churned
+CUST-10448,66,Month-to-month,87.01,6014.38,No,3,0.816,Churned
+CUST-10449,71,Two year,41.05,2821.64,No,1,0.02,Retained
+CUST-10450,35,Month-to-month,68.39,2488.23,No,3,0.891,Churned
+CUST-10451,20,Month-to-month,20.0,402.27,Yes,5,0.98,Churned
+CUST-10452,2,Month-to-month,76.18,159.0,No internet,1,0.523,Churned
+CUST-10453,7,One year,62.48,423.19,No internet,1,0.358,Retained
+CUST-10454,49,One year,45.41,2290.07,No internet,3,0.629,Churned
+CUST-10455,9,One year,77.89,670.15,No internet,6,0.98,Churned
+CUST-10456,27,Month-to-month,99.32,2784.4,No,3,0.98,Churned
+CUST-10457,2,Month-to-month,58.1,118.22,No,5,0.98,Churned
+CUST-10458,68,Two year,46.38,3112.92,No internet,0,0.02,Retained
+CUST-10459,60,Month-to-month,74.13,4310.13,No,2,0.414,Retained
+CUST-10460,49,Month-to-month,36.61,1850.67,Yes,3,0.789,Churned
+CUST-10461,2,One year,53.49,108.08,No,1,0.276,Retained
+CUST-10462,17,Month-to-month,100.56,1685.66,No internet,3,0.849,Churned
+CUST-10463,20,Month-to-month,71.55,1422.96,Yes,3,0.9,Churned
+CUST-10464,32,Month-to-month,23.01,,No internet,2,0.667,Churned
+CUST-10465,51,Month-to-month,25.08,1258.48,Yes,1,0.34,Retained
+CUST-10466,42,Month-to-month,74.05,2982.47,Yes,1,0.395,Retained
+CUST-10467,63,Two year,91.56,6005.52,Yes,4,0.617,Churned
+CUST-10468,61,Month-to-month,29.56,1782.85,Yes,4,0.855,Churned
+CUST-10469,62,Month-to-month,81.24,4960.51,Yes,3,0.59,Churned
+CUST-10470,3,One year,103.26,300.62,Yes,2,0.529,Churned
+CUST-10471,26,Two year,117.2,3168.3,No internet,6,0.98,Churned
+CUST-10472,48,Month-to-month,78.28,3651.29,Yes,1,0.491,Retained
+CUST-10473,8,Two year,82.67,670.4,Yes,4,0.727,Churned
+CUST-10474,5,One year,20.0,103.81,Yes,2,0.498,Retained
+CUST-10475,11,Month-to-month,122.49,1284.72,No,4,0.98,Churned
+CUST-10476,42,Month-to-month,55.61,2412.41,No,1,0.389,Retained
+CUST-10477,41,Month-to-month,46.66,1895.96,No,0,0.268,Retained
+CUST-10478,19,One year,63.62,1227.88,Yes,0,0.02,Retained
+CUST-10479,48,Month-to-month,107.79,5107.9,Yes,1,0.502,Churned
+CUST-10480,53,Month-to-month,125.2,6765.34,No,3,0.784,Churned
+CUST-10481,55,One year,73.14,3923.86,No,1,0.058,Retained
+CUST-10482,61,Month-to-month,94.95,5515.05,Yes,3,0.8,Churned
+CUST-10483,32,Two year,71.08,2376.41,No,1,0.104,Retained
+CUST-10484,46,Two year,44.06,1928.74,Yes,3,0.358,Retained
+CUST-10485,36,Month-to-month,106.92,3973.87,Yes,1,0.548,Churned
+CUST-10486,18,Two year,54.45,947.67,No,4,0.768,Churned
+CUST-10487,18,Month-to-month,108.39,1929.99,No,1,0.619,Churned
+CUST-10488,12,Month-to-month,102.46,1269.17,Yes,6,0.98,Churned
+CUST-10489,46,Month-to-month,85.35,,Yes,6,0.98,Churned
+CUST-10490,55,One year,115.72,6597.36,No internet,3,0.57,Churned
+CUST-10491,38,One year,125.81,4779.71,No internet,1,0.254,Retained
+CUST-10492,2,Month-to-month,65.62,129.48,No internet,1,0.452,Retained
+CUST-10493,9,Month-to-month,49.78,455.3,No,2,0.602,Churned
+CUST-10494,5,Month-to-month,23.39,115.1,No,2,0.876,Churned
+CUST-10495,19,Two year,126.12,2359.69,Yes,0,0.146,Retained
+CUST-10496,71,Two year,59.01,4287.55,Yes,2,0.272,Retained
+CUST-10497,39,One year,98.38,3763.86,No,1,0.176,Retained
+CUST-10498,42,One year,51.47,2097.05,No,5,0.842,Churned
+CUST-10499,17,One year,108.46,1900.54,Yes,1,0.274,Retained
+CUST-10500,63,Month-to-month,52.5,3408.5,No internet,1,0.538,Churned
+CUST-10501,46,Month-to-month,40.21,1849.21,Yes,2,0.594,Churned
+CUST-10502,20,One year,64.79,1299.25,Yes,0,0.02,Retained
+CUST-10503,70,Month-to-month,56.71,4047.54,Yes,1,0.185,Retained
+CUST-10504,8,Month-to-month,84.91,679.91,No,2,0.952,Churned
+CUST-10505,19,Two year,68.72,1294.85,Yes,1,0.233,Retained
+CUST-10506,32,Two year,85.69,2877.78,Yes,3,0.635,Churned
+CUST-10507,19,Month-to-month,62.72,1149.69,No,0,0.426,Retained
+CUST-10508,24,One year,53.37,1292.76,No,1,0.167,Retained
+CUST-10509,24,Two year,55.41,1381.15,No,0,0.081,Retained
+CUST-10510,56,Month-to-month,121.12,6909.7,Yes,4,0.957,Churned
+CUST-10511,18,Month-to-month,75.63,1413.2,No,2,0.661,Churned
+CUST-10512,12,Month-to-month,20.41,240.91,No,1,0.602,Churned
+CUST-10513,41,Month-to-month,56.99,2283.31,Yes,3,0.786,Churned
+CUST-10514,48,Two year,72.42,3598.27,No internet,2,0.352,Retained
+CUST-10515,64,Month-to-month,116.13,7353.62,No,1,0.457,Retained
+CUST-10516,16,Month-to-month,95.72,1563.63,Yes,3,0.98,Churned
+CUST-10517,23,Month-to-month,46.96,1042.03,No internet,2,0.555,Churned
+CUST-10518,39,Month-to-month,130.46,5218.11,No internet,2,0.682,Churned
+CUST-10519,33,Month-to-month,69.22,2295.45,No internet,0,0.283,Retained
+CUST-10520,24,One year,101.16,2371.66,No,7,0.98,Churned
+CUST-10521,61,Month-to-month,41.12,2506.94,Yes,3,0.727,Churned
+CUST-10522,55,One year,20.0,1121.66,Yes,4,0.664,Churned
+CUST-10523,61,One year,34.79,2018.6,No,2,0.312,Retained
+CUST-10524,40,Month-to-month,20.0,811.0,No internet,1,0.364,Retained
+CUST-10525,58,One year,122.8,7152.02,No,3,0.542,Churned
+CUST-10526,1,One year,75.36,73.25,No internet,0,0.186,Retained
+CUST-10527,25,Month-to-month,46.88,1201.65,Yes,1,0.541,Churned
+CUST-10528,53,Month-to-month,81.32,4225.25,No,0,0.172,Retained
+CUST-10529,61,One year,74.73,4456.81,No internet,2,0.405,Retained
+CUST-10530,46,Two year,85.52,3922.6,No,2,0.411,Retained
+CUST-10531,60,Month-to-month,100.24,6120.34,No internet,2,0.675,Churned
+CUST-10532,51,Month-to-month,62.75,3337.49,No,1,0.501,Churned
+CUST-10533,48,Month-to-month,48.0,2221.37,No,1,0.439,Retained
+CUST-10534,40,Month-to-month,90.69,3590.04,No,1,0.407,Retained
+CUST-10535,7,One year,90.06,603.12,No internet,1,0.315,Retained
+CUST-10536,19,Month-to-month,72.52,1413.51,No,1,0.419,Retained
+CUST-10537,15,Month-to-month,124.44,1856.84,Yes,0,0.494,Retained
+CUST-10538,70,Month-to-month,59.05,4219.03,No,2,0.487,Retained
+CUST-10539,61,Month-to-month,47.5,2845.98,No,3,0.699,Churned
+CUST-10540,56,Month-to-month,80.45,4660.32,Yes,2,0.685,Churned
+CUST-10541,10,Month-to-month,53.13,533.15,No,4,0.98,Churned
+CUST-10542,46,Month-to-month,82.39,3958.06,Yes,4,0.973,Churned
+CUST-10543,57,Two year,49.17,2684.64,No,6,0.963,Churned
+CUST-10544,35,Two year,59.99,2102.65,No,0,0.02,Retained
+CUST-10545,3,Month-to-month,117.27,361.18,No,0,0.479,Retained
+CUST-10546,66,Month-to-month,59.86,3990.33,No internet,2,0.319,Retained
+CUST-10547,53,Month-to-month,50.03,2525.16,Yes,2,0.512,Churned
+CUST-10548,52,Month-to-month,99.27,5405.86,No internet,4,0.98,Churned
+CUST-10549,53,Month-to-month,43.72,2270.41,Yes,2,0.586,Churned
+CUST-10550,54,Month-to-month,52.68,2773.4,Yes,1,0.331,Retained
+CUST-10551,47,One year,84.41,3961.58,No internet,1,0.155,Retained
+CUST-10552,3,Month-to-month,93.46,281.56,No,6,0.98,Churned
+CUST-10553,65,Month-to-month,100.51,6707.12,Yes,3,0.759,Churned
+CUST-10554,15,One year,51.32,761.58,No internet,0,0.293,Retained
+CUST-10555,34,One year,84.9,2869.27,No,2,0.534,Churned
+CUST-10556,50,Month-to-month,58.35,2927.7,No internet,4,0.947,Churned
+CUST-10557,33,Month-to-month,54.86,1791.26,No,1,0.482,Retained
+CUST-10558,3,Month-to-month,100.08,312.69,No,2,0.758,Churned
+CUST-10559,2,Month-to-month,56.26,116.47,No,0,0.356,Retained
+CUST-10560,4,Month-to-month,76.96,306.45,Yes,0,0.469,Retained
+CUST-10561,16,Month-to-month,73.89,1123.15,No,2,0.704,Churned
+CUST-10562,54,Month-to-month,43.23,2428.01,No,1,0.437,Retained
+CUST-10563,33,One year,94.15,2990.23,Yes,2,0.529,Churned
+CUST-10564,9,One year,84.01,736.77,Yes,3,0.696,Churned
+CUST-10565,57,Month-to-month,20.34,1119.08,Yes,3,0.689,Churned
+CUST-10566,40,Month-to-month,76.94,2979.06,No internet,3,0.696,Churned
+CUST-10567,52,Month-to-month,50.68,2715.18,No,1,0.444,Retained
+CUST-10568,16,Month-to-month,97.43,1571.27,No,1,0.507,Churned
+CUST-10569,8,Month-to-month,33.87,283.32,No internet,1,0.51,Churned
+CUST-10570,60,Two year,61.09,3566.97,No,0,0.02,Retained
+CUST-10571,36,One year,79.05,2841.71,No internet,5,0.98,Churned
+CUST-10572,3,Two year,71.36,224.3,Yes,2,0.459,Retained
+CUST-10573,15,One year,89.07,1379.66,Yes,2,0.438,Retained
+CUST-10574,23,Two year,32.04,753.77,No,2,0.303,Retained
+CUST-10575,3,One year,111.3,323.51,No,2,0.456,Retained
+CUST-10576,30,Two year,83.13,2561.09,No internet,0,0.02,Retained
+CUST-10577,45,Month-to-month,103.99,4608.22,No,2,0.538,Churned
+CUST-10578,17,Month-to-month,91.86,1566.39,Yes,1,0.641,Churned
+CUST-10579,58,One year,69.71,4087.32,No,0,0.02,Retained
+CUST-10580,58,Two year,37.9,2222.24,No,4,0.626,Churned
+CUST-10581,57,Month-to-month,55.91,3259.06,Yes,3,0.654,Churned
+CUST-10582,7,Month-to-month,109.74,780.6,No,2,0.738,Churned
+CUST-10583,39,Month-to-month,104.64,3904.81,No internet,5,0.98,Churned
+CUST-10584,58,One year,54.51,3148.09,No internet,4,0.609,Churned
+CUST-10585,56,Month-to-month,20.0,1138.37,No,3,0.673,Churned
+CUST-10586,15,One year,64.68,950.41,Yes,2,0.414,Retained
+CUST-10587,44,Two year,62.81,2711.98,Yes,1,0.271,Retained
+CUST-10588,12,Two year,63.76,736.39,No,1,0.303,Retained
+CUST-10589,8,Month-to-month,83.21,660.26,No,1,0.77,Churned
+CUST-10590,41,Month-to-month,91.91,3951.76,Yes,3,0.948,Churned
+CUST-10591,34,Month-to-month,94.76,3152.67,Yes,4,0.98,Churned
+CUST-10592,46,Month-to-month,81.14,3744.17,No internet,1,0.365,Retained
+CUST-10593,29,Month-to-month,24.98,742.04,No,3,0.851,Churned
+CUST-10594,16,One year,61.47,935.67,No,6,0.98,Churned
+CUST-10595,5,Month-to-month,127.6,663.55,Yes,1,0.553,Churned
+CUST-10596,5,Two year,79.36,392.3,Yes,1,0.439,Retained
+CUST-10597,30,Two year,79.2,2463.7,Yes,2,0.372,Retained
+CUST-10598,50,Month-to-month,78.99,3767.41,No,1,0.347,Retained
+CUST-10599,5,Two year,80.38,387.66,Yes,4,0.828,Churned
+CUST-10600,13,One year,20.0,255.39,No internet,1,0.14,Retained
+CUST-10601,49,Month-to-month,64.01,3088.02,No internet,1,0.359,Retained
+CUST-10602,50,Month-to-month,69.05,3572.58,Yes,2,0.58,Churned
+CUST-10603,14,Month-to-month,102.04,1358.73,No,3,0.98,Churned
+CUST-10604,46,Month-to-month,71.19,3320.95,No,2,0.564,Churned
+CUST-10605,34,One year,28.84,944.41,No internet,2,0.441,Retained
+CUST-10606,71,Month-to-month,80.75,5918.56,No internet,1,0.414,Retained
+CUST-10607,47,One year,49.9,2410.63,Yes,1,0.135,Retained
+CUST-10608,60,Month-to-month,39.58,2374.78,Yes,0,0.215,Retained
+CUST-10609,11,Month-to-month,49.15,525.12,No,1,0.554,Churned
+CUST-10610,50,One year,83.56,4234.19,No,3,0.601,Churned
+CUST-10611,4,One year,101.47,391.93,Yes,0,0.22,Retained
+CUST-10612,41,Month-to-month,82.07,3260.57,No,2,0.52,Churned
+CUST-10613,59,Month-to-month,85.8,5126.33,No,3,0.787,Churned
+CUST-10614,60,Two year,81.83,5150.98,Yes,4,0.696,Churned
+CUST-10615,62,One year,72.53,4672.71,No internet,5,0.769,Churned
+CUST-10616,25,Month-to-month,87.42,2205.85,Yes,0,0.377,Retained
+CUST-10617,33,Month-to-month,20.0,662.54,No,2,0.551,Churned
+CUST-10618,19,Month-to-month,72.78,1451.74,No,2,0.622,Churned
+CUST-10619,57,Month-to-month,43.88,2513.01,Yes,1,0.229,Retained
+CUST-10620,15,One year,99.07,1474.18,No,0,0.02,Retained
+CUST-10621,41,Two year,66.32,2830.48,No,1,0.205,Retained
+CUST-10622,69,One year,70.77,4753.33,No internet,3,0.202,Retained
+CUST-10623,60,Month-to-month,32.37,1864.03,Yes,1,0.272,Retained
+CUST-10624,22,Two year,95.42,2127.39,No,1,0.21,Retained
+CUST-10625,43,Month-to-month,85.68,3535.34,No,1,0.447,Retained
+CUST-10626,32,Two year,83.92,2651.37,No,2,0.245,Retained
+CUST-10627,13,Month-to-month,49.67,640.78,No internet,3,0.937,Churned
+CUST-10628,38,Month-to-month,50.66,1934.23,Yes,1,0.34,Retained
+CUST-10629,26,One year,75.59,2061.97,Yes,2,0.497,Retained
+CUST-10630,5,Month-to-month,52.64,255.86,No,1,0.533,Churned
+CUST-10631,49,One year,80.87,3913.4,Yes,1,0.131,Retained
+CUST-10632,5,One year,20.0,96.32,No internet,1,0.237,Retained
+CUST-10633,71,Month-to-month,57.81,4148.68,No,3,0.694,Churned
+CUST-10634,48,One year,114.92,5641.75,No,0,0.02,Retained
+CUST-10635,18,Month-to-month,80.99,1455.21,No,0,0.353,Retained
+CUST-10636,6,Month-to-month,74.17,433.71,No,1,0.635,Churned
+CUST-10637,66,Two year,119.63,7991.03,No,0,0.02,Retained
+CUST-10638,42,Two year,20.0,843.29,Yes,1,0.022,Retained
+CUST-10639,52,Month-to-month,49.62,2495.4,Yes,3,0.776,Churned
+CUST-10640,11,Month-to-month,59.97,653.45,Yes,3,0.98,Churned
+CUST-10641,26,Month-to-month,91.46,2362.55,No,2,0.785,Churned
+CUST-10642,21,One year,91.89,2022.82,No,2,0.525,Churned
+CUST-10643,66,Two year,48.35,3302.56,Yes,3,0.396,Retained
+CUST-10644,40,Month-to-month,94.95,3887.01,No,1,0.42,Retained
+CUST-10645,56,Two year,59.92,3485.97,Yes,3,0.375,Retained
+CUST-10646,51,Month-to-month,100.29,5235.24,No internet,0,0.302,Retained
+CUST-10647,20,Month-to-month,44.18,919.24,Yes,2,0.763,Churned
+CUST-10648,57,Two year,66.92,3644.53,No internet,1,0.308,Retained
+CUST-10649,5,Month-to-month,57.75,287.48,No,0,0.488,Retained
+CUST-10650,14,Month-to-month,96.4,1382.92,No,1,0.512,Churned
+CUST-10651,24,One year,56.93,1377.7,Yes,1,0.148,Retained
+CUST-10652,68,Month-to-month,68.94,4535.64,No internet,2,0.705,Churned
+CUST-10653,52,Month-to-month,82.67,4230.27,Yes,3,0.771,Churned
+CUST-10654,48,Two year,83.63,3941.09,No,4,0.69,Churned
+CUST-10655,47,One year,92.17,4228.61,No internet,3,0.445,Retained
+CUST-10656,60,Two year,75.28,4445.95,No internet,1,0.21,Retained
+CUST-10657,3,Month-to-month,59.54,178.89,No,3,0.98,Churned
+CUST-10658,9,Month-to-month,61.26,570.91,No internet,2,0.696,Churned
+CUST-10659,24,Two year,70.64,1736.39,No,0,0.02,Retained
+CUST-10660,4,Month-to-month,76.24,315.18,Yes,2,0.824,Churned
+CUST-10661,9,Month-to-month,66.32,619.78,No,2,0.768,Churned
+CUST-10662,1,Month-to-month,70.48,69.89,Yes,1,0.69,Churned
+CUST-10663,35,Month-to-month,32.07,1105.17,Yes,4,0.98,Churned
+CUST-10664,12,Month-to-month,86.68,994.15,No,1,0.579,Churned
+CUST-10665,18,Two year,74.53,1399.29,No,2,0.395,Retained
+CUST-10666,10,Two year,95.05,909.23,Yes,1,0.308,Retained
+CUST-10667,18,One year,70.0,1290.38,No internet,3,0.568,Churned
+CUST-10668,24,One year,26.54,629.2,Yes,2,0.336,Retained
+CUST-10669,1,Two year,61.04,63.78,No internet,1,0.312,Retained
+CUST-10670,16,One year,65.0,1031.64,No internet,1,0.182,Retained
+CUST-10671,15,Month-to-month,88.57,1370.61,No internet,3,0.98,Churned
+CUST-10672,62,Month-to-month,20.0,1213.05,No,1,0.27,Retained
+CUST-10673,5,Month-to-month,71.03,348.01,Yes,2,0.72,Churned
+CUST-10674,45,Month-to-month,82.84,3763.41,No,1,0.429,Retained
+CUST-10675,52,Month-to-month,53.46,2918.36,Yes,2,0.587,Churned
+CUST-10676,71,Month-to-month,71.87,5111.74,Yes,3,0.701,Churned
+CUST-10677,7,Month-to-month,54.32,396.83,No,1,0.61,Churned
+CUST-10678,27,Month-to-month,51.76,1437.52,Yes,4,0.98,Churned
+CUST-10679,13,Month-to-month,59.79,800.27,No internet,2,0.843,Churned
+CUST-10680,17,Month-to-month,52.23,882.22,No internet,3,0.915,Churned
+CUST-10681,44,One year,87.09,3788.48,No,2,0.262,Retained
+CUST-10682,13,Month-to-month,51.63,650.51,No,6,0.98,Churned
+CUST-10683,5,Two year,47.43,248.15,No,2,0.375,Retained
+CUST-10684,33,Two year,114.2,3941.73,No internet,3,0.747,Churned
+CUST-10685,4,One year,94.02,385.37,No,2,0.683,Churned
+CUST-10686,26,One year,23.46,597.53,Yes,2,0.386,Retained
+CUST-10687,68,Two year,50.88,3371.68,No,0,0.02,Retained
+CUST-10688,16,Month-to-month,76.06,1276.42,No,1,0.589,Churned
+CUST-10689,22,Two year,78.09,1643.51,No internet,2,0.456,Retained
+CUST-10690,36,One year,32.74,1219.13,Yes,0,0.02,Retained
+CUST-10691,58,One year,98.96,5656.72,Yes,2,0.3,Retained
+CUST-10692,55,Month-to-month,90.63,4944.21,No internet,1,0.356,Retained
+CUST-10693,35,Month-to-month,82.05,2967.09,No internet,1,0.521,Churned
+CUST-10694,25,One year,103.92,2491.64,No internet,2,0.445,Retained
+CUST-10695,61,One year,81.31,4887.58,No,0,0.065,Retained
+CUST-10696,18,One year,81.21,1527.86,No,3,0.701,Churned
+CUST-10697,58,Month-to-month,108.94,6444.3,No,2,0.642,Churned
+CUST-10698,57,Month-to-month,97.53,5700.94,Yes,3,0.767,Churned
+CUST-10699,63,Month-to-month,48.96,3163.91,No,1,0.47,Retained
+CUST-10700,12,Month-to-month,85.83,984.7,Yes,1,0.597,Churned
+CUST-10701,11,Month-to-month,53.39,569.86,Yes,2,0.765,Churned
+CUST-10702,13,Month-to-month,82.6,1072.86,No internet,0,0.414,Retained
+CUST-10703,35,Month-to-month,81.92,2829.4,Yes,2,0.646,Churned
+CUST-10704,27,Month-to-month,35.41,947.55,No internet,0,0.29,Retained
+CUST-10705,67,Month-to-month,66.95,4611.9,Yes,1,0.187,Retained
+CUST-10706,45,Two year,76.63,3280.99,Yes,2,0.205,Retained
+CUST-10707,67,One year,59.09,4022.57,No,0,0.02,Retained
+CUST-10708,22,One year,77.87,1627.5,No,0,0.192,Retained
+CUST-10709,42,Month-to-month,90.15,3620.86,No,1,0.508,Churned
+CUST-10710,20,One year,69.24,1372.1,No internet,2,0.365,Retained
+CUST-10711,48,Month-to-month,75.61,3753.02,Yes,1,0.32,Retained
+CUST-10712,18,Two year,104.59,1815.79,No internet,3,0.723,Churned
+CUST-10713,70,One year,81.83,5759.39,Yes,3,0.367,Retained
+CUST-10714,6,One year,75.02,458.15,No internet,1,0.361,Retained
+CUST-10715,39,Two year,46.05,1747.38,No,2,0.343,Retained
+CUST-10716,11,Month-to-month,86.78,955.76,No internet,1,0.643,Churned
+CUST-10717,25,Month-to-month,78.25,,No,2,0.717,Churned
+CUST-10718,55,One year,102.09,5621.82,Yes,2,0.353,Retained
+CUST-10719,58,Month-to-month,71.17,3986.41,No internet,0,0.198,Retained
+CUST-10720,37,Month-to-month,24.59,921.46,Yes,2,0.539,Churned
+CUST-10721,16,One year,27.5,444.06,Yes,1,0.124,Retained
+CUST-10722,70,Month-to-month,88.39,5894.61,No,1,0.17,Retained
+CUST-10723,37,One year,55.75,1978.3,Yes,1,0.139,Retained
+CUST-10724,53,Two year,80.92,4141.56,Yes,3,0.603,Churned
+CUST-10725,16,Month-to-month,72.86,1123.36,No,2,0.803,Churned
+CUST-10726,18,Month-to-month,65.83,1156.44,No internet,0,0.385,Retained
+CUST-10727,19,Month-to-month,67.59,1278.32,Yes,1,0.486,Retained
+CUST-10728,44,Month-to-month,48.37,2100.98,No,2,0.674,Churned
+CUST-10729,2,Month-to-month,69.61,144.66,No,2,0.789,Churned
+CUST-10730,58,Month-to-month,55.39,3248.64,No internet,2,0.671,Churned
+CUST-10731,10,Month-to-month,60.69,629.73,No internet,3,0.854,Churned
+CUST-10732,46,Month-to-month,61.91,2855.56,No,1,0.364,Retained
+CUST-10733,19,One year,64.33,1172.14,No,4,0.712,Churned
+CUST-10734,38,Two year,93.05,3522.92,No,1,0.082,Retained
+CUST-10735,37,One year,66.76,2549.67,Yes,0,0.02,Retained
+CUST-10736,45,Month-to-month,95.59,4169.97,No,1,0.484,Retained
+CUST-10737,34,Month-to-month,108.45,3536.57,No internet,4,0.98,Churned
+CUST-10738,2,One year,91.37,179.62,No,2,0.22,Retained
+CUST-10739,44,Month-to-month,83.36,3627.09,Yes,1,0.548,Churned
+CUST-10740,27,Month-to-month,78.17,2069.7,No,0,0.211,Retained
+CUST-10741,48,Two year,91.63,4237.81,No,0,0.024,Retained
+CUST-10742,7,Month-to-month,72.23,493.01,No,4,0.98,Churned
+CUST-10743,27,Month-to-month,94.61,2601.03,No,2,0.898,Churned
+CUST-10744,71,Two year,85.35,5990.72,No,1,0.132,Retained
+CUST-10745,18,Two year,61.0,1112.55,Yes,1,0.199,Retained
+CUST-10746,33,Month-to-month,92.4,3060.27,No internet,3,0.825,Churned
+CUST-10747,33,Month-to-month,72.29,2397.27,No,5,0.98,Churned
+CUST-10748,25,One year,67.35,1641.41,Yes,3,0.461,Retained
+CUST-10749,14,One year,58.1,815.15,Yes,4,0.808,Churned
+CUST-10750,38,Month-to-month,74.15,2683.46,No internet,1,0.464,Retained
+CUST-10751,38,One year,94.91,3581.96,No internet,2,0.356,Retained
+CUST-10752,4,Two year,92.22,371.56,No,2,0.55,Churned
+CUST-10753,62,Month-to-month,78.83,4732.04,Yes,0,0.216,Retained
+CUST-10754,10,Two year,84.99,829.21,Yes,1,0.343,Retained
+CUST-10755,35,Two year,101.79,3462.73,Yes,0,0.057,Retained
+CUST-10756,23,Month-to-month,66.25,,No,3,0.92,Churned
+CUST-10757,65,One year,42.11,2695.51,No,3,0.385,Retained
+CUST-10758,25,Month-to-month,102.53,2686.02,No,1,0.515,Churned
+CUST-10759,53,One year,56.76,2964.32,No,0,0.02,Retained
+CUST-10760,17,One year,52.74,893.04,Yes,1,0.175,Retained
+CUST-10761,57,Month-to-month,25.1,,Yes,2,0.445,Retained
+CUST-10762,20,One year,84.28,1710.63,Yes,0,0.057,Retained
+CUST-10763,25,Two year,29.46,769.63,Yes,1,0.157,Retained
+CUST-10764,42,Month-to-month,51.24,2229.03,Yes,2,0.609,Churned
+CUST-10765,45,Month-to-month,84.71,3924.0,No,5,0.98,Churned
+CUST-10766,31,Month-to-month,88.05,2852.82,No,0,0.303,Retained
+CUST-10767,65,One year,53.71,3397.16,No,2,0.23,Retained
+CUST-10768,52,Two year,66.65,3506.37,No,2,0.295,Retained
+CUST-10769,21,Two year,48.19,1051.17,No,3,0.521,Churned
+CUST-10770,30,Month-to-month,56.29,1709.66,No,2,0.669,Churned
+CUST-10771,3,Month-to-month,76.66,240.96,Yes,2,0.884,Churned
+CUST-10772,70,Month-to-month,57.46,3861.45,No internet,2,0.513,Churned
+CUST-10773,43,Month-to-month,63.89,2730.6,Yes,3,0.818,Churned
+CUST-10774,29,Month-to-month,33.38,1014.23,Yes,0,0.219,Retained
+CUST-10775,3,Month-to-month,98.32,291.41,Yes,3,0.98,Churned
+CUST-10776,58,Month-to-month,82.75,4914.48,No internet,4,0.891,Churned
+CUST-10777,33,Two year,89.82,2824.87,No internet,1,0.084,Retained
+CUST-10778,45,One year,102.26,4691.36,No,4,0.793,Churned
+CUST-10779,69,One year,49.37,3554.59,No,1,0.02,Retained
+CUST-10780,32,Month-to-month,61.04,1930.37,No,2,0.637,Churned
+CUST-10781,52,Two year,22.63,1120.43,No internet,1,0.02,Retained
+CUST-10782,64,One year,148.51,9055.94,No,2,0.499,Retained
+CUST-10783,40,Two year,66.26,2754.3,No internet,1,0.184,Retained
+CUST-10784,13,Month-to-month,95.97,1275.37,Yes,7,0.98,Churned
+CUST-10785,29,Month-to-month,39.05,1087.91,Yes,2,0.656,Churned
+CUST-10786,63,Month-to-month,94.91,5713.0,No internet,0,0.241,Retained
+CUST-10787,26,Month-to-month,116.44,3119.72,Yes,1,0.695,Churned
+CUST-10788,59,One year,68.49,4166.12,No internet,3,0.419,Retained
+CUST-10789,49,Two year,44.73,2108.6,No,2,0.151,Retained
+CUST-10790,53,Month-to-month,66.53,3456.1,No internet,2,0.651,Churned
+CUST-10791,31,Month-to-month,20.0,637.36,Yes,1,0.468,Retained
+CUST-10792,12,One year,69.05,830.71,No,0,0.105,Retained
+CUST-10793,58,Month-to-month,90.52,5489.87,No,3,0.812,Churned
+CUST-10794,36,One year,69.11,2483.25,No,3,0.506,Churned
+CUST-10795,10,One year,62.9,640.13,No,2,0.457,Retained
+CUST-10796,6,Month-to-month,83.19,499.63,No internet,0,0.43,Retained
+CUST-10797,7,Two year,85.1,622.09,No,2,0.452,Retained
+CUST-10798,31,Month-to-month,28.5,874.55,Yes,3,0.896,Churned
+CUST-10799,3,Two year,72.22,210.81,No internet,1,0.205,Retained
+CUST-10800,47,One year,130.9,6045.64,Yes,3,0.765,Churned
+CUST-10801,1,Two year,36.62,37.91,Yes,4,0.887,Churned
+CUST-10802,45,Month-to-month,67.86,3053.07,Yes,3,0.655,Churned
+CUST-10803,54,Month-to-month,118.54,6307.86,No internet,4,0.98,Churned
+CUST-10804,50,Month-to-month,97.6,4901.6,Yes,2,0.624,Churned
+CUST-10805,7,Month-to-month,57.17,385.51,Yes,2,0.792,Churned
+CUST-10806,63,Two year,75.15,4500.26,No internet,2,0.173,Retained
+CUST-10807,15,Month-to-month,69.95,1026.23,No,1,0.567,Churned
+CUST-10808,67,Two year,51.3,3473.19,Yes,1,0.02,Retained
+CUST-10809,30,Month-to-month,68.14,2087.47,No,5,0.98,Churned
+CUST-10810,68,Month-to-month,63.0,4423.92,No internet,0,0.084,Retained
+CUST-10811,36,Two year,72.82,2733.37,Yes,2,0.435,Retained
+CUST-10812,67,Month-to-month,51.29,3406.23,No,2,0.366,Retained
+CUST-10813,5,One year,38.08,194.98,No,3,0.66,Churned
+CUST-10814,25,Month-to-month,68.97,1650.91,No,1,0.585,Churned
+CUST-10815,11,Two year,112.88,1186.74,No,1,0.323,Retained
+CUST-10816,66,One year,72.06,4577.52,No,3,0.419,Retained
+CUST-10817,28,One year,61.71,1718.99,Yes,6,0.98,Churned
+CUST-10818,60,Month-to-month,88.85,5177.08,No,2,0.527,Churned
+CUST-10819,10,Month-to-month,66.04,646.33,Yes,0,0.352,Retained
+CUST-10820,50,Two year,116.7,5921.29,No,1,0.144,Retained
+CUST-10821,39,Two year,69.9,2687.53,Yes,1,0.258,Retained
+CUST-10822,37,Month-to-month,87.51,3256.45,No,1,0.601,Churned
+CUST-10823,63,Month-to-month,51.13,3192.97,Yes,4,0.767,Churned
+CUST-10824,61,Month-to-month,82.58,4870.63,No,4,0.98,Churned
+CUST-10825,38,Month-to-month,76.88,2796.99,No,1,0.544,Churned
+CUST-10826,33,One year,68.59,2203.77,No,4,0.852,Churned
+CUST-10827,45,Month-to-month,57.46,2471.33,No,2,0.633,Churned
+CUST-10828,44,Month-to-month,54.05,2406.41,No,0,0.238,Retained
+CUST-10829,1,One year,77.06,79.34,Yes,4,0.964,Churned
+CUST-10830,53,Month-to-month,85.72,4470.35,Yes,3,0.844,Churned
+CUST-10831,47,One year,66.82,3105.09,No,2,0.487,Retained
+CUST-10832,33,Two year,77.18,2627.47,No internet,0,0.096,Retained
+CUST-10833,67,Month-to-month,69.05,4498.02,Yes,2,0.539,Churned
+CUST-10834,15,One year,72.46,1045.51,Yes,0,0.02,Retained
+CUST-10835,14,Month-to-month,64.99,909.96,Yes,1,0.515,Churned
+CUST-10836,23,Month-to-month,70.45,1644.04,No,1,0.417,Retained
+CUST-10837,54,Month-to-month,137.45,7496.27,No,2,0.659,Churned
+CUST-10838,8,Month-to-month,77.79,635.63,No,4,0.98,Churned
+CUST-10839,54,Month-to-month,86.13,4444.86,Yes,0,0.244,Retained
+CUST-10840,36,Month-to-month,80.95,2893.28,Yes,2,0.754,Churned
+CUST-10841,52,Two year,63.43,3212.13,Yes,2,0.308,Retained
+CUST-10842,6,One year,102.35,630.01,No,3,0.675,Churned
+CUST-10843,28,Two year,62.72,1821.62,No,2,0.387,Retained
+CUST-10844,50,One year,96.38,4713.63,Yes,3,0.553,Churned
+CUST-10845,38,Month-to-month,61.64,2247.51,No internet,2,0.648,Churned
+CUST-10846,30,Month-to-month,46.0,1345.97,Yes,0,0.301,Retained
+CUST-10847,54,Month-to-month,79.13,4103.81,No,3,0.713,Churned
+CUST-10848,71,Month-to-month,42.38,2955.55,No,2,0.438,Retained
+CUST-10849,46,One year,83.39,3850.59,Yes,1,0.335,Retained
+CUST-10850,28,Month-to-month,40.15,1177.45,No internet,1,0.567,Churned
+CUST-10851,17,Month-to-month,62.02,1043.73,No,4,0.967,Churned
+CUST-10852,48,Month-to-month,34.21,1596.11,No,1,0.188,Retained
+CUST-10853,44,Month-to-month,140.6,5980.27,No,1,0.548,Churned
+CUST-10854,60,Month-to-month,28.65,1662.8,Yes,2,0.571,Churned
+CUST-10855,60,Month-to-month,70.25,4085.43,No,2,0.516,Churned
+CUST-10856,5,One year,98.58,505.83,Yes,3,0.788,Churned
+CUST-10857,69,Month-to-month,95.91,6327.29,No internet,5,0.98,Churned
+CUST-10858,70,One year,91.28,6707.42,Yes,0,0.02,Retained
+CUST-10859,7,Month-to-month,62.07,435.48,Yes,5,0.98,Churned
+CUST-10860,53,Month-to-month,103.78,5524.69,Yes,1,0.411,Retained
+CUST-10861,17,Two year,92.83,1555.63,Yes,2,0.445,Retained
+CUST-10862,59,One year,75.31,4527.83,No,4,0.682,Churned
+CUST-10863,9,Month-to-month,76.01,,Yes,1,0.596,Churned
+CUST-10864,22,Two year,62.4,1349.33,No,1,0.378,Retained
+CUST-10865,45,Month-to-month,47.26,2076.75,Yes,2,0.644,Churned
+CUST-10866,59,Month-to-month,100.93,6208.34,No,4,0.98,Churned
+CUST-10867,13,One year,102.81,1308.6,No,2,0.495,Retained
+CUST-10868,12,One year,47.9,571.14,No internet,3,0.677,Churned
+CUST-10869,36,Month-to-month,66.16,2346.11,No internet,2,0.626,Churned
+CUST-10870,10,Month-to-month,66.41,636.62,No internet,1,0.603,Churned
+CUST-10871,16,Two year,69.18,1072.12,No,1,0.186,Retained
+CUST-10872,19,Month-to-month,71.61,1318.34,No,5,0.98,Churned
+CUST-10873,6,Month-to-month,93.67,572.9,No,1,0.658,Churned
+CUST-10874,4,Month-to-month,51.32,203.36,No internet,0,0.563,Churned
+CUST-10875,30,Two year,48.84,1506.51,Yes,1,0.364,Retained
+CUST-10876,46,Month-to-month,100.92,4739.32,No,2,0.72,Churned
+CUST-10877,27,One year,58.43,1529.03,Yes,2,0.384,Retained
+CUST-10878,45,One year,38.42,1739.78,No,1,0.02,Retained
+CUST-10879,37,Month-to-month,57.87,2193.2,No,2,0.709,Churned
+CUST-10880,9,One year,61.75,563.14,No,5,0.98,Churned
+CUST-10881,61,Two year,108.87,6707.49,No,2,0.35,Retained
+CUST-10882,35,Month-to-month,93.12,3337.29,No internet,1,0.652,Churned
+CUST-10883,47,Month-to-month,98.69,4432.85,No,0,0.225,Retained
+CUST-10884,21,Two year,90.5,1944.48,No internet,1,0.194,Retained
+CUST-10885,17,One year,93.66,1556.02,Yes,4,0.81,Churned
+CUST-10886,55,Month-to-month,52.8,2924.87,No,2,0.62,Churned
+CUST-10887,6,One year,65.03,380.13,No,0,0.16,Retained
+CUST-10888,35,One year,45.25,1637.41,Yes,1,0.075,Retained
+CUST-10889,50,One year,64.74,3230.71,Yes,1,0.172,Retained
+CUST-10890,37,Two year,87.1,3268.77,No,1,0.101,Retained
+CUST-10891,13,Month-to-month,73.36,981.73,No,2,0.691,Churned
+CUST-10892,25,Month-to-month,102.79,2671.34,No,4,0.98,Churned
+CUST-10893,1,One year,41.46,42.42,Yes,1,0.239,Retained
+CUST-10894,49,Month-to-month,82.51,3900.99,Yes,2,0.692,Churned
+CUST-10895,35,One year,38.79,1405.78,No,2,0.341,Retained
+CUST-10896,53,Month-to-month,72.35,3880.02,Yes,3,0.911,Churned
+CUST-10897,52,Month-to-month,88.51,4652.89,Yes,2,0.596,Churned
+CUST-10898,54,Month-to-month,64.64,3637.63,Yes,3,0.745,Churned
+CUST-10899,47,One year,83.78,3838.76,Yes,1,0.247,Retained
+CUST-10900,43,One year,46.01,1926.91,Yes,2,0.287,Retained
+CUST-10901,20,Month-to-month,28.41,568.95,Yes,1,0.606,Churned
+CUST-10902,33,Month-to-month,83.93,2839.17,Yes,1,0.552,Churned
+CUST-10903,16,Month-to-month,113.6,1808.01,No,2,0.613,Churned
+CUST-10904,7,One year,45.1,319.93,Yes,1,0.358,Retained
+CUST-10905,70,Month-to-month,100.55,7005.08,No,2,0.631,Churned
+CUST-10906,21,One year,71.09,1509.37,No internet,1,0.317,Retained
+CUST-10907,36,Month-to-month,36.61,1360.43,No,1,0.278,Retained
+CUST-10908,54,Month-to-month,41.71,2180.37,Yes,2,0.49,Retained
+CUST-10909,19,One year,70.39,1363.54,No internet,1,0.202,Retained
+CUST-10910,25,Month-to-month,59.89,1540.28,Yes,2,0.622,Churned
+CUST-10911,67,Month-to-month,37.18,2477.89,Yes,3,0.802,Churned
+CUST-10912,53,Month-to-month,27.65,1439.55,No internet,2,0.527,Churned
+CUST-10913,48,Month-to-month,48.83,2229.82,No internet,5,0.98,Churned
+CUST-10914,42,Month-to-month,74.85,3237.1,No,0,0.323,Retained
+CUST-10915,47,Month-to-month,69.84,3226.0,No,1,0.477,Retained
+CUST-10916,42,One year,57.47,2379.3,No,2,0.048,Retained
+CUST-10917,2,One year,75.05,147.64,Yes,4,0.814,Churned
+CUST-10918,6,One year,96.0,575.93,Yes,3,0.585,Churned
+CUST-10919,46,Month-to-month,79.85,3747.48,No,3,0.841,Churned
+CUST-10920,66,One year,66.97,4540.18,No internet,1,0.025,Retained
+CUST-10921,40,One year,93.2,3687.95,Yes,2,0.374,Retained
+CUST-10922,58,Month-to-month,46.0,2711.52,No,3,0.546,Churned
+CUST-10923,33,One year,64.38,2171.43,Yes,1,0.157,Retained
+CUST-10924,62,Two year,64.97,3946.34,No,2,0.331,Retained
+CUST-10925,12,Month-to-month,39.08,450.04,No,2,0.827,Churned
+CUST-10926,49,Two year,59.5,3030.56,No,1,0.166,Retained
+CUST-10927,5,Month-to-month,20.0,101.77,Yes,1,0.43,Retained
+CUST-10928,51,Month-to-month,117.8,6096.78,No,4,0.98,Churned
+CUST-10929,69,Month-to-month,46.56,3070.93,No,3,0.725,Churned
+CUST-10930,32,One year,109.65,3620.34,Yes,2,0.42,Retained
+CUST-10931,49,Month-to-month,70.95,3499.51,Yes,1,0.262,Retained
+CUST-10932,60,Two year,84.12,5222.78,No,2,0.353,Retained
+CUST-10933,46,Two year,57.78,2784.01,No,3,0.431,Retained
+CUST-10934,68,One year,75.2,5347.34,Yes,2,0.259,Retained
+CUST-10935,41,Month-to-month,86.26,3662.6,No,2,0.664,Churned
+CUST-10936,67,Two year,86.61,5519.08,No internet,4,0.734,Churned
+CUST-10937,13,Two year,89.37,1206.62,Yes,0,0.11,Retained
+CUST-10938,18,Month-to-month,60.79,1047.72,No,1,0.538,Churned
+CUST-10939,51,One year,57.99,3061.36,Yes,2,0.404,Retained
+CUST-10940,36,One year,30.15,1061.54,Yes,3,0.429,Retained
+CUST-10941,34,One year,83.08,2855.81,Yes,1,0.269,Retained
+CUST-10942,12,Month-to-month,97.06,1110.92,No,1,0.599,Churned
+CUST-10943,5,Month-to-month,110.4,566.97,No,1,0.582,Churned
+CUST-10944,48,Month-to-month,77.63,3581.55,Yes,2,0.618,Churned
+CUST-10945,40,Month-to-month,50.84,2015.44,No,3,0.849,Churned
+CUST-10946,13,One year,27.57,369.79,No,1,0.322,Retained
+CUST-10947,26,Two year,96.04,2545.82,Yes,0,0.193,Retained
+CUST-10948,14,Two year,25.09,333.91,No,1,0.183,Retained
+CUST-10949,11,One year,61.48,669.72,No,1,0.191,Retained
+CUST-10950,38,One year,64.39,2334.74,No internet,1,0.136,Retained
+CUST-10951,57,Month-to-month,68.26,3958.33,No internet,2,0.473,Retained
+CUST-10952,22,One year,70.9,1632.95,Yes,1,0.219,Retained
+CUST-10953,16,Month-to-month,73.45,1193.45,No,3,0.898,Churned
+CUST-10954,29,Month-to-month,20.0,564.01,Yes,0,0.315,Retained
+CUST-10955,2,One year,70.37,138.7,No,6,0.98,Churned
+CUST-10956,54,Month-to-month,20.0,1131.48,No internet,1,0.274,Retained
+CUST-10957,2,Month-to-month,88.31,171.75,Yes,2,0.766,Churned
+CUST-10958,3,Two year,56.12,169.4,No,1,0.39,Retained
+CUST-10959,56,Month-to-month,20.0,1108.85,No,2,0.415,Retained
+CUST-10960,11,Month-to-month,49.64,560.69,No,1,0.571,Churned
+CUST-10961,32,Month-to-month,55.75,1849.54,Yes,2,0.644,Churned
+CUST-10962,4,Month-to-month,99.77,392.73,No internet,0,0.555,Churned
+CUST-10963,9,Month-to-month,74.92,685.1,No,1,0.644,Churned
+CUST-10964,56,One year,78.61,4423.75,Yes,2,0.296,Retained
+CUST-10965,16,Month-to-month,99.53,1557.2,Yes,2,0.737,Churned
+CUST-10966,71,Two year,67.6,4690.14,No,3,0.24,Retained
+CUST-10967,10,Month-to-month,88.85,891.93,Yes,0,0.452,Retained
+CUST-10968,36,Month-to-month,87.1,3027.11,Yes,3,0.903,Churned
+CUST-10969,24,One year,37.84,936.39,No,1,0.057,Retained
+CUST-10970,64,One year,106.82,6541.83,No,2,0.193,Retained
+CUST-10971,56,One year,34.49,1853.13,No,1,0.065,Retained
+CUST-10972,22,Two year,92.93,2012.2,No,2,0.475,Retained
+CUST-10973,52,Month-to-month,32.07,1603.95,No,2,0.459,Retained
+CUST-10974,50,Month-to-month,85.03,4241.17,No internet,1,0.394,Retained
+CUST-10975,47,Two year,116.55,5422.89,Yes,2,0.229,Retained
+CUST-10976,23,Month-to-month,64.68,1520.64,No,4,0.98,Churned
+CUST-10977,19,Month-to-month,63.59,1262.94,No internet,1,0.435,Retained
+CUST-10978,52,Month-to-month,85.26,4545.94,No,2,0.655,Churned
+CUST-10979,34,One year,61.77,2032.86,No,2,0.351,Retained
+CUST-10980,29,Month-to-month,115.46,3494.17,Yes,1,0.673,Churned
+CUST-10981,61,Month-to-month,74.8,4513.58,No,1,0.316,Retained
+CUST-10982,35,Month-to-month,62.0,2164.4,No,1,0.475,Retained
+CUST-10983,5,One year,56.49,280.23,No,3,0.512,Churned
+CUST-10984,7,Month-to-month,46.68,319.59,No internet,1,0.411,Retained
+CUST-10985,41,Month-to-month,54.31,2314.67,Yes,3,0.842,Churned
+CUST-10986,2,One year,61.23,120.41,Yes,0,0.02,Retained
+CUST-10987,10,Two year,57.81,582.64,Yes,1,0.25,Retained
+CUST-10988,44,One year,53.55,2294.95,No,1,0.202,Retained
+CUST-10989,70,One year,122.47,8827.84,Yes,0,0.02,Retained
+CUST-10990,35,Month-to-month,44.25,1591.22,No,3,0.752,Churned
+CUST-10991,62,Month-to-month,73.67,4474.5,Yes,3,0.607,Churned
+CUST-10992,20,Month-to-month,84.81,1727.0,No,1,0.605,Churned
+CUST-10993,35,Two year,85.75,3062.44,Yes,1,0.311,Retained
+CUST-10994,37,Month-to-month,68.53,2551.46,No internet,0,0.238,Retained
+CUST-10995,54,Two year,63.98,3489.68,No,1,0.03,Retained
+CUST-10996,28,Two year,81.29,2293.07,No internet,0,0.02,Retained
+CUST-10997,70,Month-to-month,76.66,5141.82,No,0,0.211,Retained
+CUST-10998,32,Month-to-month,63.53,2067.57,Yes,2,0.763,Churned
+CUST-10999,11,Month-to-month,30.95,339.42,Yes,1,0.428,Retained
